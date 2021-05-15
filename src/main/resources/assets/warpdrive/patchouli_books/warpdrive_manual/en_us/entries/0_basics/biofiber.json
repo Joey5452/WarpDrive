@@ -5,7 +5,7 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "$(item)Biofiber$() is a lightweight, flexible, environmental friendly alternative to composite materials.$(br2)It's used has a fabric to make clothing, notably $(l:0_basics/armor)Space suits$(). It's also a base ingredient for $(l:0_basics/carbon_fiber)Carbon fiber$()."
+			"text": "$(item)Biofiber$() is a lightweight, flexible, environmental friendly alternative to composite materials.$(br2)It's used as a fabric to make clothing, notably $(l:0_basics/armor)Space suits$(). It's also a base ingredient for $(l:0_basics/carbon_fiber)Carbon fiber$()."
 		},
 		{
 			"type": "crafting",
@@ -18,7 +18,7 @@
 			"type": "smelting",
 			"recipe": "warpdrive:component:27",
 			"title": "Biofiber",
-			"text": "$(item)Biofiber$() is produced from smelting $(item)Biopulp$()."
+			"text": "$(item)Biofiber$() is produced from smelting $(item)Biopulp$() in a furnace."
 		}
 	],
 	"sortnum": 2
