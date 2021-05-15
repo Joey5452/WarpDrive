@@ -5,7 +5,7 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "Rubber is a flexible, insulating, and natural material used in many recipes.$(br2)Because of its numerous application, this is the first resource you want to collect before getting into space."
+			"text": "Rubber is a flexible, insulating, and natural occurring material used in many recipes.$(br2)Because of its numerous applications, this is the first resource you want to collect before getting into space."
 		},
 		{
 			"type": "spotlight",
@@ -17,7 +17,7 @@
 			"type": "smelting",
 			"recipe": "warpdrive:component:25",
 			"title": "Rubber",
-			"text": "$(item)Rubber$() is produced from smelting $(item)Raw Rubber$()."
+			"text": "$(item)Rubber$() is produced from smelting $(item)Raw Rubber$() in a furnace."
 		}
 	],
 	"sortnum": 1
