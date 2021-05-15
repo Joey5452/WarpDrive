@@ -17,7 +17,7 @@
 			"type": "smelting",
 			"recipe": "warpdrive:component:29",
 			"title": "Ceramic",
-			"text": "$(item)Ceramic$() is produced from smelting $(item)Raw ceramic$()."
+			"text": "$(item)Ceramic$() is produced from smelting $(item)Raw ceramic$() in a furnace."
 		}
 	],
 	"sortnum": 3
